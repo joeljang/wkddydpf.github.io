@@ -533,8 +533,6 @@ blockquote p {
   height: 40px;
 }
 .author-avatar img {
-  width: 100%;
-  max-width: 110px;
   border-radius: 50%;
 }
 .author-discrip {
@@ -731,7 +729,7 @@ blockquote p {
     text-align: center;
   }
   .author-avatar img {
-    padding: 5px;
+    padding: 1px;
     border: 1px solid #f2f3f3;
   }
   .author-discrip {
